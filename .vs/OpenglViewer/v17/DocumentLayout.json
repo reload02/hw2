@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\re-ro\\Downloads\\hw1-main\\hw2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3130446D-B8B5-4D34-8DA7-9579D9A7F6F6}|q2\\q2.vcxproj|C:\\Users\\re-ro\\Downloads\\hw1-main\\hw2-main\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3130446D-B8B5-4D34-8DA7-9579D9A7F6F6}|q2\\q2.vcxproj|solutionrelative:q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6841E8C5-D782-45AB-AB91-35B2D4B26832}|q1\\q1.vcxproj|C:\\Users\\re-ro\\Downloads\\hw1-main\\hw2-main\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6841E8C5-D782-45AB-AB91-35B2D4B26832}|q1\\q1.vcxproj|solutionrelative:q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q2.cpp",
+              "DocumentMoniker": "C:\\Users\\re-ro\\Downloads\\hw1-main\\hw2-main\\q2.cpp",
+              "RelativeDocumentMoniker": "q2.cpp",
+              "ToolTip": "C:\\Users\\re-ro\\Downloads\\hw1-main\\hw2-main\\q2.cpp",
+              "RelativeToolTip": "q2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T11:43:57.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "q1.cpp",
+              "DocumentMoniker": "C:\\Users\\re-ro\\Downloads\\hw1-main\\hw2-main\\q1.cpp",
+              "RelativeDocumentMoniker": "q1.cpp",
+              "ToolTip": "C:\\Users\\re-ro\\Downloads\\hw1-main\\hw2-main\\q1.cpp",
+              "RelativeToolTip": "q1.cpp",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAANcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T11:34:16.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

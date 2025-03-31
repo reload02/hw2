@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(EmptyViewer.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  q3.cpp
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\EmptyViewer\q3.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\EmptyViewer\q3.cpp(164,39): warning C4305: '인수': 'double'에서 'const T'(으)로 잘립니다.
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\EmptyViewer\q3.cpp(164,39): warning C4305:         with
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\EmptyViewer\q3.cpp(164,39): warning C4305:         [
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\EmptyViewer\q3.cpp(164,39): warning C4305:             T=float
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\EmptyViewer\q3.cpp(164,39): warning C4305:         ]
+  EmptyViewer.vcxproj -> C:\Users\re-ro\Downloads\hw1-main\hw2-main\bin\q3.exe

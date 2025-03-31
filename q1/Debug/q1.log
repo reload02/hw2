@@ -1,0 +1,20 @@
+﻿  q1.cpp
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\q1.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: roll function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: pitch function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: yaw function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angle function returning degrees is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: angleAxis function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\q1.cpp(163,39): warning C4305: '인수': 'double'에서 'const T'(으)로 잘립니다.
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\q1.cpp(163,39): warning C4305:         with
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\q1.cpp(163,39): warning C4305:         [
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\q1.cpp(163,39): warning C4305:             T=float
+C:\Users\re-ro\Downloads\hw1-main\hw2-main\q1.cpp(163,39): warning C4305:         ]
+  q1.vcxproj -> C:\Users\re-ro\Downloads\hw1-main\hw2-main\bin\q1.exe
